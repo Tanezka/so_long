@@ -1,6 +1,6 @@
 # So Long - A 2D Game Project
 
-Welcome to **So Long**, a small yet fun 2D game project! This project is designed to help you improve your skills in handling textures, sprites, and basic gameplay elements using **C** and **MiniLibX**.
+Welcome to **So Long**, a small yet fun 2D game project!
 
 ## 📌 Features
 - 🎮 Play as a character collecting items and reaching the exit.
